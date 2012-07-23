@@ -1,0 +1,9 @@
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\bin\Debug\Mis It Jeoprady.exe
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\bin\Debug\Mis It Jeoprady.pdb
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis_It_Jeoprady.Form1.resources
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis_It_Jeoprady.Properties.Resources.resources
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis It Jeoprady.csproj.GenerateResource.Cache
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis It Jeoprady.exe
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis It Jeoprady.pdb
+C:\Users\ugenlik\Documents\Visual Studio 2008\Projects\Mis It Jeoprady\Mis It Jeoprady\obj\Debug\Mis_It_Jeoprady.chap4_200.resources
